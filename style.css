@@ -457,9 +457,6 @@ nav .social-icons a {
     {
         font-size: 10px;
     }
-    header {
-        height: 50vh;
-    }
 }
 #nav-menu.show {
     display: flex;
