@@ -300,7 +300,7 @@ nav .social-icons a {
 /* Footer */
 .footer 
 {
-    background-image: url(../image/footer.png);
+    background-image: url(image/footer.png);
     height: 86px;
 }
 
@@ -456,9 +456,6 @@ nav .social-icons a {
     .about-agency p 
     {
         font-size: 10px;
-    }
-    header {
-        height: 100vh;
     }
 }
 
