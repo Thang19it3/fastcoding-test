@@ -461,8 +461,4 @@ nav .social-icons a {
         height: 100vh;
     }
 }
-#nav-menu.show {
-    display: flex;
-    flex-direction: column;
-}
 
